@@ -1,1 +1,2 @@
 # DATA-STRUCTURES-1292
+This project is a console-based Library Management System implemented using core data structures like arrays, linked lists, stacks, and queues. It allows users to manage book inventories, issue and return books, track borrowers, and perform search operations efficiently. Designed for educational purposes to demonstrate practical applications of data structures in system design.
